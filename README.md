@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Flavio  
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas.**
 🌐 Em transição de carreira, focado em **Desenvolvimento Web** e **DevOps Culture**.  
 
 ---

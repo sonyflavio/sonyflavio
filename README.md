@@ -9,7 +9,7 @@
 
 - **Linguagens:** JavaScript | TypeScript  
 - **Backend:** Node.js | Nest.js
-- **Backend:** React 
+- **Frontend:** React 
 - **Banco de Dados:** MySQL     
 - **Ferramentas DevOps:** Docker | AWS | Terraform
 
